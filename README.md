@@ -1,3 +1,3 @@
 # golang
 
-GoLang Specialization by UCI (University of California, Irvine)
+Booking App with Go following TechWorld with Nana course.
