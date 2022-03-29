@@ -1,6 +1,7 @@
 # Basics
 
 ```
+go mod init module_path
 go build
 go doc
 go fmt
